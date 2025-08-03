@@ -164,18 +164,10 @@ dotnet run
 
 ---
 
-## 🧪 Exemplo de Execução
+## Exemplo de Execução
 
 ```
 [20:50:29 INF] Product 'Notebook Dell' added successfully.
 ```
-
----
-
-## Extensões futuras
-
-- ✅ API REST com ASP.NET Core
-- ✅ Repositório com banco de dados real (SQL/EF Core)
-- ✅ Testes unitários com xUnit
 
 ---
